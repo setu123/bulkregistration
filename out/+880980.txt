@@ -1,0 +1,1 @@
+User(msisdn=+880980, simType=POSTPAID, name=f2 l2, dateOfBirth=Thu Apr 12 00:00:00 BDT 1990, gender=F, address=wer tj uyiuy ytrrt retu, idNumber=98978b)
