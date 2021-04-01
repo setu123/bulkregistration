@@ -1,1 +1,0 @@
-User(msisdn=+9101911, simType=PREPAID, name=S1R1, dateOfBirth=Mon Sep 11 00:00:00 BDT 1978, gender=M, address=wer tj uyiuy ytrrt retu, idNumber=98979b)
